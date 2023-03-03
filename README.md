@@ -15,3 +15,4 @@ Template project repository for DSCI-100
 12. #44 (ca)
 13. #51 (thal)
 14. #58 (num) (the predicted attribute)
+15. #Test from Serena
